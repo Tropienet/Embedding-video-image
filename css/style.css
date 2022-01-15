@@ -28,7 +28,6 @@
 }
 
 .main-video {
-    background-color: green;
     width: 1400px;
     height: 90%;
     margin: 20px 10px 20px 250px;
@@ -37,7 +36,6 @@
 }
 
 .sidebar{
-    background-color: blue;
     width: 150px;
     height: 90%;
     margin: 20px 0px 50px 10px;
@@ -102,25 +100,36 @@
 .text-sidebar{
     width: 150px;
     height: 90%;
-    background-color: brown;
     margin-top: 20px;
 }
 
 .video-creator{
-    
     color: #818181;
     font-size: 12px;
 }
 
-.views{
-    
+.views{ 
     color: #818181;
     font-size: 12px;
 }
 
 .post-date{
-    
     color: #818181;
     font-size: 12px;
 }
+
+.main-video-title{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.main-video-views{
+    font-size: 18px;
+}
+
+.profile-picture{
+    margin: 15px;
+    border-radius: 50%;
+}
+
 
