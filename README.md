@@ -1,1 +1,1 @@
-# Embedding-video-image
+# embedding-images-video
